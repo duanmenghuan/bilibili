@@ -1,5 +1,3 @@
-# bilibili
-爬取B站评论
 使用selenium模拟器 
   官方文档https://wizardforcel.gitbooks.io/selenium-doc/content/official-site/selenium-1.html
   非官方文档https://python-selenium-zh.readthedocs.io/zh_CN/latest/
